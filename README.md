@@ -1,3 +1,3 @@
 # GAN-tutorial
 Short review of GAN paper  
-Practice GAN - GAN fo MNIST Tutorial.ipynb
+Practice GAN - GAN_for_MNIST_Tutorial.ipynb
